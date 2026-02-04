@@ -1,4 +1,4 @@
-## Hi there 👋
+## HEllo there 👋
 
 <!--
 **Bhavyasree-19/Bhavyasree-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
